@@ -309,4 +309,9 @@ a:hover {
   .container .card-container:nth-child(3) {
     flex-direction: column-reverse;
   }
+
+  .card {
+    height: 250px;
+    width: 250px;
+  }
 }
