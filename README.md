@@ -10,6 +10,7 @@ Desenvolver um blog profissional, aplicando conceitos aprendidos sobre HTML e CS
 - HTML5
 - CSS3
 
+## 📈 Status do projeto
 
-
+✅ Concluído
 
