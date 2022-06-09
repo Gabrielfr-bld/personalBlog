@@ -158,3 +158,10 @@ a:hover {
   background-color: #051937;
   top: 47px;
 }
+
+#toggle:checked + .checkbox .trace:nth-child(2) {
+  transform: translateX(-100px);
+  width: 30px;
+  visibility: hidden;
+  opacity: 0;
+}
