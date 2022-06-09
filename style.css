@@ -102,3 +102,8 @@ a:hover {
   top: 46px;
   transform: rotate(0);
 }
+
+.checkbox .trace:nth-child(3) {
+  top: 66px;
+  transform: rotate(0);
+}
