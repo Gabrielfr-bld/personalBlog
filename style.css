@@ -202,3 +202,20 @@ a:hover {
   justify-content: space-evenly;
   width: 90%;
 }
+
+.card {
+  height: 300px;
+  width: 400px;
+  margin: 3rem 0;
+  background-image: url('./developer.jpeg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  filter: grayscale(0.5);
+  color: #fff;
+  cursor: pointer;
+  transition: 0.3s;
+}
