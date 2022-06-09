@@ -146,9 +146,15 @@ a:hover {
 
 .menu-items ul li a {
   margin: 10px 0;
-  color: #000;
+  color: #051937;
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 4px;
   font-size: 40px;
+}
+
+#toggle:checked + .checkbox .trace:nth-child(1) {
+  transform: rotate(45deg);
+  background-color: #051937;
+  top: 47px;
 }
