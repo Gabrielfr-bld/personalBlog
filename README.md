@@ -1,5 +1,12 @@
 # Project Personal Blog 
 
-Blog pessoal desenvolvido utilizando apenas HTML e CSS.
+## Objetivo
+Desenvolver um blog profissional, aplicando conceitos aprendidos sobre HTML e CSS, utilizando animções somente com CSS.
+
+## Tecnologias
+- HTML5
+- CSS3
+
+
 
 
