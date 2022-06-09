@@ -255,3 +255,7 @@ a:hover {
   text-transform: uppercase;
   transition: 0.3s;
 }
+
+.card:hover {
+  filter: unset;
+}
