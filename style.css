@@ -143,3 +143,12 @@ a:hover {
 .menu-items ul {
   list-style-type: none;
 }
+
+.menu-items ul li a {
+  margin: 10px 0;
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 40px;
+}
