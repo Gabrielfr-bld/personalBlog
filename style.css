@@ -97,3 +97,8 @@ a:hover {
   top: 26px;
   transform: rotate(0);
 }
+
+.checkbox .trace:nth-child(2) {
+  top: 46px;
+  transform: rotate(0);
+}
