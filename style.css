@@ -219,3 +219,10 @@ a:hover {
   cursor: pointer;
   transition: 0.3s;
 }
+
+.card-text {
+  width: 40%;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  color: rgb(109, 109, 109);
+}
