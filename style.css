@@ -165,3 +165,9 @@ a:hover {
   visibility: hidden;
   opacity: 0;
 }
+
+#toggle:checked + .checkbox .trace:nth-child(1) {
+  transform: rotate(-45deg);
+  background-color: #051937;
+  top: 48px;
+}
