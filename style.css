@@ -300,4 +300,8 @@ a:hover {
   .container {
     margin-top: 0;
   }
+
+  .card-container {
+    flex-direction: column;
+  }
 }
