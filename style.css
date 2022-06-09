@@ -268,3 +268,9 @@ a:hover {
 .card:hover {
   filter: unset;
 }
+
+.card:hover > .card-wrapper::before {
+  width: 350px;
+  height: 250px;
+  opacity: 1;
+}
