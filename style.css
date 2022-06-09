@@ -166,7 +166,7 @@ a:hover {
   opacity: 0;
 }
 
-#toggle:checked + .checkbox .trace:nth-child(1) {
+#toggle:checked + .checkbox .trace:nth-child(3) {
   transform: rotate(-45deg);
   background-color: #051937;
   top: 48px;
