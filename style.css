@@ -296,4 +296,8 @@ a:hover {
     display: flex;
     flex-direction: column;
   }
+
+  .container {
+    margin-top: 0;
+  }
 }
