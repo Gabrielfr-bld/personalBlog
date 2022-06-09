@@ -314,4 +314,10 @@ a:hover {
     height: 250px;
     width: 250px;
   }
+
+  .card-text {
+    width: 90%;
+    margin-top: 2rem;
+    text-align: center;
+  }
 }
