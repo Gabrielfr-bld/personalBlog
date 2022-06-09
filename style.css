@@ -139,3 +139,7 @@ a:hover {
   visibility: hidden;
   transition: 400ms ease-in-out 0s;
 }
+
+.menu-items ul {
+  list-style-type: none;
+}
