@@ -28,3 +28,8 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 4px;
 }
+
+.social-media {
+  margin-top: 1rem;
+  display: flex;
+}
