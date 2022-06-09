@@ -292,4 +292,8 @@ a:hover {
 }
 
 @media (max-width: 800px) {
+  .social-media {
+    display: flex;
+    flex-direction: column;
+  }
 }
