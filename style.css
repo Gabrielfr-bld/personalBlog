@@ -18,3 +18,8 @@ body {
   justify-content: center;
   position: relative;
 }
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
