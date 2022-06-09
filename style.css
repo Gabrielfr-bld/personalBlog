@@ -226,3 +226,14 @@ a:hover {
   letter-spacing: 1px;
   color: rgb(109, 109, 109);
 }
+
+.card-wrapper::before {
+  content: '';
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  display: block;
+  border: 1px solid #fff;
+  opacity: 0;
+  transition: 0.3s;
+}
