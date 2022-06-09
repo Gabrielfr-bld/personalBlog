@@ -185,3 +185,13 @@ a:hover {
   opacity: 1;
   visibility: visible;
 }
+
+.container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3rem 0;
+}
