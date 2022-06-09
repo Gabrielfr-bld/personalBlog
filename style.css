@@ -64,3 +64,9 @@ a:hover {
     background-position: 0% 90%;
   }
 }
+
+.checkbox-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
